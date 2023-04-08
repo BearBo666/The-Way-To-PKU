@@ -1,7 +1,7 @@
 # The Way to PKU
 ![GitHub watchers](https://img.shields.io/github/watchers/BearBo666/The-Way-To-PKU.svg?style=social) ![GitHub stars](https://img.shields.io/github/stars/BearBo666/The-Way-To-PKU.svg?style=social) ![GitHub forks](https://img.shields.io/github/forks/BearBo666/The-Way-To-PKU.svg?style=social) ![GitHub followers](https://img.shields.io/github/followers/BearBo666.svg?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/BearBo666/The-Way-To-PKU.svg?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/BearBo666/The-Way-To-PKU)  ![GitHub last commit](https://img.shields.io/github/last-commit/BearBo666/The-Way-To-PKU) ![GitHub](https://img.shields.io/github/license/BearBo666/The-Way-To-PKU.svg?style=flat-square)
 
-刚开始考研时，受仓库：https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination，的启发，就开始决定也将我的每周备考历程做个记录。
+刚开始考研时，受仓库：https://github.com/AngelKitty/review_the_national_post-graduate_entrance_examination 的启发，就开始决定也将我的每周备考历程做个记录。
 
 如今我已上岸，秉着饮水思源的精神，创建了这个项目，既是给以后的自己留下一个念想，也希望能帮到一些个能看到本项目的同学。
 
